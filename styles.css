@@ -1,0 +1,42 @@
+body {
+    background: darkgray;
+}
+
+.main-header {
+    text-align: center;
+    background-color: burlywood;
+}
+
+.header-nav {
+    display: flex;
+    justify-content: center;
+    background-color:cadetblue;
+    
+}
+.nav li {
+    display: inline;
+    padding: 10px;
+    background-color:darkgray;
+}
+.main-div {
+    padding: 10px;
+    background-color:rosybrown;
+    border: 2px solid royalblue;
+}
+
+input {
+    display: block;
+    padding: 3px;
+    margin-bottom: 5px;
+}
+
+.left-sec {
+    float: left;
+    border: 2px solid white;
+    margin: 0px;
+    min-width: 19%;
+}
+.main-sec {
+    float: right;
+    min-width: 80%;
+}
